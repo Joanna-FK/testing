@@ -12,6 +12,8 @@ public class RomaConverter {
                 return 50;
             case "C":
                 return 100;
+            case "D":
+                return 500;
             case "M":
                 return 1000;
         }

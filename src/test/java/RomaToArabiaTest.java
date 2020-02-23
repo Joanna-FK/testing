@@ -62,7 +62,9 @@ public class RomaToArabiaTest {
                 arguments("II", 2),
                 arguments("IX", 9),
                 arguments("IV", 4),
-                arguments("XVII", 17)
+                arguments("XVII", 17),
+                arguments("CV", 105),
+                arguments("DLXIX", 569)
         );
     }
 @ParameterizedTest
